@@ -19,9 +19,10 @@ Any IDE but PyCharm is reccomended
 Then, follow these steps:
 
 Clone this repository
-Open blenderinvoker.py and change the blenderPath variable with the directory where you have Blender installed
-Run webserver.py
-Open index.html and it's done!
+1.Open blenderinvoker.py and change the blenderPath variable with the directory where you have Blender installed
+2.Run webserver.py
+3.Open index.html and it's done!
+
 <img width="870" alt="Screenshot 2024-06-30 at 2 05 16 AM" src="https://github.com/ASHWINISHARMABTCSAI118/HumanBodyGenerator/assets/112960687/4b36e3df-7996-4112-ba47-5c819dfa744c">
 📽️Demo Video
 
