@@ -34,6 +34,7 @@ Then, follow these steps:
 <img width="870" alt="Screenshot 2024-06-30 at 2 05 16 AM" src="https://github.com/ASHWINISHARMABTCSAI118/HumanBodyGenerator/assets/112960687/4b36e3df-7996-4112-ba47-5c819dfa744c">
 
 
+
 📽️Demo Video
 
 https://github.com/ASHWINISHARMABTCSAI118/HumanBodyGenerator/assets/112960687/d5af7b35-e782-406d-a844-f27f550d669f
