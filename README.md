@@ -15,21 +15,21 @@ Summary of Tech Stacks
 How to run the project
 Before getting started, make sure you have all of these installed on your computer:
 
-Python 3.7 or above
+1.Python 3.7 or above
 
-Blender 2.9.0
+2.Blender 2.9.0
 
-Any IDE but PyCharm is reccomended
+3.Any IDE but PyCharm is reccomended
 
 Then, follow these steps:
 
-Clone this repository
+1.Clone this repository
 
-1.Open blenderinvoker.py and change the blenderPath variable with the directory where you have Blender installed
+2.Open blenderinvoker.py and change the blenderPath variable with the directory where you have Blender installed
 
-2.Run webserver.py
+3.Run webserver.py
 
-3.Open index.html and it's done!
+4.Open index.html and it's done!
 
 <img width="870" alt="Screenshot 2024-06-30 at 2 05 16 AM" src="https://github.com/ASHWINISHARMABTCSAI118/HumanBodyGenerator/assets/112960687/4b36e3df-7996-4112-ba47-5c819dfa744c">
 
@@ -51,8 +51,11 @@ Applications of this Technology in Myntra's Fashion Industry
 7. Virtual Runway Experience: Virtual fashion shows featuring digital twins showcase collections inclusively and dynamically, boosting customer engagement.
    
 👷‍♂️ Team - Target_lock
+
 Ashwini Sharma
+
 Reema Kumari
+
 Jiya
 
 
